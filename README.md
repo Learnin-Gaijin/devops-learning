@@ -12,7 +12,7 @@ I'm sharing here my progression through my skill development towards the job of 
 - Continuous Integration and Deployment (CI/CD)
 - Cloud (Incomming)
 
-## 📁 Arborescence
+## 📁 Tree structure
 Chaque dossier contient un thème avec des scripts, des notes, et des exercices pratiques :
 - `/linux/` : Commands, Tips, Shell scripting
 - `/bash-scripts/` : Basics automised scripts
