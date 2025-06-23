@@ -1,24 +1,24 @@
 # devops-learning
-// Repository to develop my devops skills with help of AI
+// Repository to develop my DevOps skills with help from AI
 
-Welcome to my Github Space !
-I'm sharing here my progression through my skill development towards the job of DevOps.
+Welcome to my GitHub space!
+I'm sharing here my progress as I build up my skills towards becoming a DevOps.
 
 ## 📚 Covered Topics
 - Linux & Command Line
-- Git & versioning
-- Scripts Bash / Python
+- Git & Version Control
+- Bash / Python Scripting
 - Docker & Containerization
 - Continuous Integration and Deployment (CI/CD)
-- Cloud (Incomming)
+- Cloud (Incoming)
 
-## 📁 Tree structure
-Chaque dossier contient un thème avec des scripts, des notes, et des exercices pratiques :
-- `/linux/` : Commands, Tips, Shell scripting
-- `/bash-scripts/` : Basics automised scripts
-- `/git-exercices/` : Branching, merge, rebase
-- `/docker/` : Dockerfile, docker-compose, images
-- `/ci-cd/` : Pipelines GitHub Actions
+## 📁 Repository Structure
+Each folder covers a topic with scripts, notes and hands-on exercises:
+- `/linux/` : Commands, tips, shell scripting
+- `/bash-scripts/` : Basic automation scripts
+- `/git-exercises/` : Branching, merging, rebasing
+- `/docker/` : Dockerfiles, Docker Compose, image builds
+- `/ci-cd/` : GitHub Actions pipelines
 
 ## 🎯 Objectives
-Gradually Retraining as Junior Devops and build a portfolio with concreate projects.
+Gradually retrain as a Junior DevOps and build a portfolio of concrete, real-world projects.
